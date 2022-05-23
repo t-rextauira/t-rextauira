@@ -15,9 +15,9 @@
 
 - 📝 I regularly write articles on [games.](games.)
 
-- 💬 Ask me about **any game you like.**
+- 💬 Ask me about <h1>any game you like.</h1>
 
-- 📫 How to reach me **tauiramcleod@gmail.com**
+- 📫 How to reach me <strong>tauiramcleod@gmail.com</strong>
 
 - 📄 Know about my experiences <strong>non I am still learning.</strong>
 
