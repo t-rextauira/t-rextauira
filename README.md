@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tauiramcleod@gmail.com**
 
-- 📄 Know about my experiences [non I am still learning.](non I am still learning.)
+- 📄 Know about my experiences <strong>non I am still learning.</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
